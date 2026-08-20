@@ -127,19 +127,28 @@ The application was developed using:
 * GitHub
 * AI tools/API integration
  
-⸻
+
  
 📂 Application Structure
 
 BurgerBoss AI
+
  🏠 Dashboard
+
  ✉️ Email Generator
+
  📝 Meeting Summarizer
+ 
  📋 Task Planner
+ 
  🔎 Research Assistant
+ 
  🤖 AI Assistant
+ 
  🍔 Burger Ideas
+ 
  ⚙️ Settings
+
 
 🤖 Responsible AI
 
