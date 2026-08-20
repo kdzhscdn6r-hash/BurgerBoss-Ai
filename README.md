@@ -33,8 +33,10 @@ Supported tones include:
 * Persuasive
 * Apologetic
 The generated email can be reviewed and edited before being used.
+
  
 📝 Meeting Notes Summarizer
+
 
 Converts staff meeting notes into a structured summary.
 The feature extracts:
@@ -47,7 +49,9 @@ The feature extracts:
 This helps restaurant managers quickly understand what was discussed and what needs to happen next.
 
  
+
 📋 AI Task Planner
+
 
 Helps restaurant managers organize and prioritize their daily workload.
 Users can enter:
@@ -59,7 +63,9 @@ Users can enter:
 The AI creates a structured plan and prioritizes tasks according to urgency and importance.
  
  
+
 🔎 AI Research Assistant
+
 
 Helps restaurant managers explore workplace and restaurant-related topics.
 Example topics include:
@@ -74,6 +80,7 @@ The assistant provides summarized information, insights, and practical recommend
  
 🤖 AI Workplace Assistant
 
+
 BurgerBoss Assistant is an interactive AI chatbot designed to act as a restaurant operations copilot.
 Users can ask questions such as:
 * How should I prioritize today’s tasks?
@@ -84,7 +91,9 @@ Users can ask questions such as:
  
 
  
+
 🍔 Burger Idea Generator
+
 
 A bonus feature that helps restaurant managers generate new burger concepts.
 Users can provide:
@@ -150,7 +159,10 @@ BurgerBoss AI
  ⚙️ Settings
 
 
+
 🤖 Responsible AI
+
+
 
 BurgerBoss AI is designed to assist restaurant teams rather than replace human judgment.
 AI-generated content may contain errors, omissions, or inaccurate information.
@@ -165,7 +177,9 @@ Responsible AI Disclaimer
 AI-generated content may contain errors or omissions. Always review and verify important information before using it for professional communication, operational decisions, or deadlines.
  
  
+
 📈 Expected Impact
+
 
 BurgerBoss AI aims to help restaurant teams:
 
@@ -202,7 +216,9 @@ The application should be tested for:
 * Responsible AI messaging
  
  
+
 🔮 Future Improvements
+
 
 Future versions could include:
 * User authentication
@@ -226,7 +242,10 @@ Future versions could include:
 These features are outside the scope of the initial MVP.
  
  
+
+
 👤 Team
+
 
 Developer: Njabulo Mazibuko
 
@@ -237,6 +256,7 @@ Application: BurgerBoss AI
 
  
 📄 Project Information
+
 
 This project was developed as an AI-powered workplace productivity solution.
 The application demonstrates the use of AI for practical workplace tasks, prompt engineering, productivity improvement, and responsible AI practices.
