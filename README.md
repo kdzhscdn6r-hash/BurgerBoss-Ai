@@ -1,14 +1,17 @@
 # BurgerBoss-Ai
 AI-powered restaurant operations assistant that helps burger restaurant managers automate workplace tasks, communication, meeting summaries, and daily planning.
 
+
 🍔 BurgerBoss AI
+
 AI-Powered Restaurant Operations Assistant
 BurgerBoss AI is an AI-powered workplace productivity application designed to help burger restaurant managers and staff automate common workplace tasks.
 The application brings multiple AI-powered productivity features together in one platform, helping restaurant teams save time, organize daily operations, improve communication, and make better use of AI.
  
-⸻
+
  
 🎯 Project Overview
+
 Restaurant managers often spend valuable time on repetitive administrative tasks such as writing emails, summarizing staff meetings, organizing daily tasks, and researching ways to improve restaurant operations.
 BurgerBoss AI addresses this problem by providing a single AI-powered workspace for restaurant operations.
 The application demonstrates how AI can be applied to a practical workplace environment while encouraging responsible AI use and human review.
@@ -42,6 +45,7 @@ The feature extracts:
 * Responsibilities
 * Deadlines
 This helps restaurant managers quickly understand what was discussed and what needs to happen next.
+
  
 📋 AI Task Planner
 
